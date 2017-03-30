@@ -10,9 +10,9 @@ events that can cause sudden changes in the stock price)
 
 TicTac -
 a Tic Tac Toe game (below)
-X O X
-- X O
-- - X
+| X O X |
+| - X O |
+| - - X |
 that is playable human vs computer
 this contains a simple (but incomplete) AI that i made by myself.
 the AI can recogonize when the human player is planning to complete
